@@ -1,0 +1,5 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "css.validate": false,
+  "eslint.validate": ["typecript", "javacsript", "typecriptreact"]
+}
